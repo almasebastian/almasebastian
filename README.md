@@ -1,44 +1,48 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Alma Maria Sebastian!
 
-I'm a PhD student in **astronomy and astrophysics** passionate about exploring the universe through code, data analysis, and open science. My research focuses on chemical enrichment of the early Universe, high redshift galaxies and quasars and the Epoch of Reionization (EoR) through the techniques of high-redshift quasar spectroscopy and imaging spectroscopy of deep quasar fields. I enjoy collaborating on scientific software, visualizing data, and leveraging the use of statistical toolsfor data interpretation to uncover new insights about the cosmos. I also aim to gain some experience on applying machine learning to large volumes of astronomical data. I have been part of two ESO Large Programs: E-XQR-30 and REQUIEM.
+I'm a PhD student in **astronomy and astrophysics** passionate about exploring the universe through code, data analysis, and open science. My research focuses on chemical enrichment of the early Universe, high redshift galaxies and quasars and the Epoch of Reionization (EoR) through the techniques of high-redshift quasar spectroscopy and imaging spectroscopy of deep quasar fields. I enjoy collaborating on scientific software, visualizing data, and leveraging the use of statistical toolsfor data interpretation to uncover new insights about the cosmos. I also aim to gain some experience on applying machine learning to large volumes of astronomical data. I am a collaborator of two ESO Large Programs: [E-XQR-30](https://xqr30.inaf.it) and the forthcoming [REQUIEM](https://emastro.github.io/requiem/index.html).
 
 ---
 
 ## 🔭 Current Research
 
-- **Topic:** [Your Dissertation or Main Project Title]
-- **Advisor:** [Advisor's Name, optional]
-- **Keywords:** [e.g., Stellar Evolution, Galaxy Formation, Machine Learning, Spectroscopy]
+- **Topic:** Probing chemical elements in galaxy halos across cosmic time
+- **Advisors:** Prof. Emma Ryan-Weber and Dr. Rebecca Davies
+- **Keywords:** absorption and emission lines, spectroscopy, galaxy halos, galaxy evolution, photometry, high-redshift galaxies, quasars, EoR
 
 ## 💻 My Toolbox
 
-- Python (NumPy, SciPy, Astropy, Matplotlib, Pandas, Jupyter)
+- Python (NumPy, SciPy, Astropy, Matplotlib, Pandas, Jupyter, Photutils, Emcee, Regions)
 - Data analysis & visualization
-- Astronomical simulation tools (e.g., yt, Gadget-2, SPH codes)
-- Machine learning (scikit-learn, PyTorch/Tensorflow)
-- Scientific writing (LaTeX, Markdown)
+- Astronomical software tools (e.g.,LSDCat, QtCalssify, PyPlatefit, SAOImageds9, QFitsView)
+- Scientific writing (LaTeX, Overleaf)
 
 ## 🛰️ Recent Projects
 
-- [Project Title 1](link) – Short description (e.g., "Analyzing Kepler light curves for exoplanet transits")
-- [Project Title 2](link) – Short description (e.g., "Developing a pipeline for processing spectroscopic data")
+- [Evolution of metal absorbers across cosmic time](https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.1829S/abstract) – Studied the evolution of low ionization absorbers, particularly, Mg II, C II and O I using high quality quasar spectra from E-XQR-30
+- [Pipeline for detection of emission lines from MUSE cubes](link) - Developed a pipeline for the detection, classification and flux measurement of galaxies via their Lyman alpha emission from deep quasar fields observed using VLT/MUSE
+- [Connecting host galaxies with absobers in their CGM](link) – Detected and analysed the properties of Lyman alpha emitters especially the ones that are connected to the absorbers using three deep quasar fields
 
 ## 📈 Education
 
-- **PhD in Astrophysics** – [Your University], [Start Year]–Present
-- **MSc/BSc in Physics/Astronomy** – [Previous University], [Year]
+- **PhD in Astronomy and Astrophysics** – Swinburne University of Technology, Hawthorn, Australia, February 2022–Present
+- **Master of Science in Astronomy and Astrophysics** – Australian National University, 2021
+- **Bachelor of Science (Physics)** - Alphonsa College, Pala, Kerala, India
 
 ## 🌌 Interests
 
-- Astrophysical simulations & high-performance computing
-- Big data in astronomy / Open source science
-- Scientific visualization & outreach
+- Observational astronomy including quasar spectroscopy, imaging spectroscopy and photometry
+- High redshift galaxies
+- Chemical enrichment of the early Universe
+- Epoch of Reionization
+- Quasar environment
+- Data analysis and visualisation
+- Outreach and mentoring activities
 
 ## 📫 How to reach me
 
-- Email: [your.email@university.edu]
-- Twitter: [@your_twitter_handle]
-- Personal website: [yourhomepage.com]
+- Email: [almajess20@gmail.com]
+- Personal website: [[webofscience.com](https://www.webofscience.com/wos/author/record/LTF-2331-2024)]
 
 ---
 
